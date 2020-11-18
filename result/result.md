@@ -19,6 +19,7 @@
 | [unbalanced-set](./unbalanced-set.md#prog) | [vc](./unbalanced-set.md#vc) |[specs](./unbalanced-set.md#specs)| [assertion](./unbalanced-set.md#assertion-2) |    [lemma](./unbalanced-set.md#lemma-2)         |
 | [splay-heap](./splay-heap.md#prog) | [vc](./splay-heap.md#vc) |[specs](./splay-heap.md#specs)| [assertion](./splay-heap.md#assertion-1) |    [lemma](./splay-heap.md#lemma-1)         |
 | [splay-heap](./splay-heap.md#prog) | [vc](./splay-heap.md#vc) |[specs](./splay-heap.md#specs)| [assertion](./splay-heap.md#assertion-2) |    [lemma](./splay-heap.md#lemma-2)         |
+| [splay-heap](./splay-heap.md#prog) | [vc](./splay-heap.md#vc) |[specs](./splay-heap.md#specs)| [assertion](./splay-heap.md#assertion-3) |    [lemma](./splay-heap.md#lemma-3)         |
 | [trie](./trie.md#prog) | [vc](./trie.md#vc) |[specs](./trie.md#specs)| [assertion](./trie.md#assertion-1) |    [lemma](./trie.md#lemma-1)         |
 | [unique-list](./unique-list.md#prog) | [vc](./unique-list.md#vc) |[specs](./unique-list.md#specs)| [assertion](./unique-list.md#assertion-1) |    [lemma](./unique-list.md#lemma-1) |
 | [unique-list](./unique-list.md#prog) | [vc](./unique-list.md#vc) |[specs](./unique-list.md#specs)| [assertion](./unique-list.md#assertion-2) |    [lemma](./unique-list.md#lemma-2) |
